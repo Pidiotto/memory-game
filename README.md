@@ -17,8 +17,8 @@ O jogo funciona de maneira simples, o jogador deve combinar os pares de cartas v
 ## 🖥 Preview:
 
 <p align="center">
-  <img src="https://github.com/Pidiotto/memory-game/blob/main/screenshot1.png" title="screenshot" alt="screenshot do jogo">
-  <img src="https://github.com/Pidiotto/memory-game/blob/main/screenshot2.png" title="screenshot" alt="screenshot do jogo">
+  <img src="https://github.com/Pidiotto/memory-game/blob/main/screenshot1.png" title="screenshot" alt="screenshot do jogo" width="400">
+  <img src="https://github.com/Pidiotto/memory-game/blob/main/screenshot2.png" title="screenshot" alt="screenshot do jogo" width="400">
 </p>
 
 ## 📌 Créditos:
